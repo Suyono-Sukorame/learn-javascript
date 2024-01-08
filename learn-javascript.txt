@@ -8,3 +8,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#number_t
 
 Apa Itu Nilai Nan
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN
+
+Variabel Dan Kata Kunci Let
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
