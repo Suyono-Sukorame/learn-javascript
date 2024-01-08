@@ -15,3 +15,4 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
 Memperbarui Nilai Number Di Dalam Variabel
 Kata Kunci Const Dan Var Untuk Variabel
 Tipe Data Booleani
+Tips Memberikan Nama Variabel Seperti Anak Sendiri
