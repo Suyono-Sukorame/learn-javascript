@@ -1,3 +1,4 @@
 Learn JavaScrifa-pull-left
 
 Tipe Data Primitif Dan Developer Tools Console
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
