@@ -19,4 +19,5 @@ Tips Memberikan Nama Variabel Seperti Anak Sendiri
 
 
 Mengenal Tipe Data String
+Penjelasan Index Pada String Dan Panjang Karakter
 
