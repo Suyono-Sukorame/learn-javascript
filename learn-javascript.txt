@@ -13,3 +13,4 @@ Variabel Dan Kata Kunci Let
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
 
 Memperbarui Nilai Number Di Dalam Variabel
+Kata Kunci Const Dan Var Untuk Variabel
